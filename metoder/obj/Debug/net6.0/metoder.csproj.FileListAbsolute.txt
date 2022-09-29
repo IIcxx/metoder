@@ -1,0 +1,15 @@
+C:\programming folder\metoder\metoder\bin\Debug\net6.0\metoder.exe
+C:\programming folder\metoder\metoder\bin\Debug\net6.0\metoder.deps.json
+C:\programming folder\metoder\metoder\bin\Debug\net6.0\metoder.runtimeconfig.json
+C:\programming folder\metoder\metoder\bin\Debug\net6.0\metoder.dll
+C:\programming folder\metoder\metoder\bin\Debug\net6.0\metoder.pdb
+C:\programming folder\metoder\metoder\obj\Debug\net6.0\metoder.csproj.AssemblyReference.cache
+C:\programming folder\metoder\metoder\obj\Debug\net6.0\metoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming folder\metoder\metoder\obj\Debug\net6.0\metoder.AssemblyInfoInputs.cache
+C:\programming folder\metoder\metoder\obj\Debug\net6.0\metoder.AssemblyInfo.cs
+C:\programming folder\metoder\metoder\obj\Debug\net6.0\metoder.csproj.CoreCompileInputs.cache
+C:\programming folder\metoder\metoder\obj\Debug\net6.0\metoder.dll
+C:\programming folder\metoder\metoder\obj\Debug\net6.0\refint\metoder.dll
+C:\programming folder\metoder\metoder\obj\Debug\net6.0\metoder.pdb
+C:\programming folder\metoder\metoder\obj\Debug\net6.0\metoder.genruntimeconfig.cache
+C:\programming folder\metoder\metoder\obj\Debug\net6.0\ref\metoder.dll
